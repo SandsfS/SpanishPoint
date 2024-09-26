@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|c:\\users\\admkumari\\source\\repos\\machingengineproject\\pages\\rmanagementmodulepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|solutionrelative:pages\\rmanagementmodulepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|c:\\users\\admkumari\\source\\repos\\machingengineproject\\test\\rmanagementmoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|solutionrelative:test\\rmanagementmoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|c:\\users\\admkumari\\source\\repos\\machingengineproject\\utils\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|solutionrelative:utils\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|c:\\users\\admkumari\\source\\repos\\machingengineproject\\machingengineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{847D9DA2-06AF-4B8A-964B-0254359D2FE5}|MachingEngineProject.csproj|solutionrelative:machingengineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RManagementModulePage.cs",
+              "DocumentMoniker": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\Pages\\RManagementModulePage.cs",
+              "RelativeDocumentMoniker": "Pages\\RManagementModulePage.cs",
+              "ToolTip": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\Pages\\RManagementModulePage.cs",
+              "RelativeToolTip": "Pages\\RManagementModulePage.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIA8wDIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:07:33.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RManagementModuleTest.cs",
+              "DocumentMoniker": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\Test\\RManagementModuleTest.cs",
+              "RelativeDocumentMoniker": "Test\\RManagementModuleTest.cs",
+              "ToolTip": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\Test\\RManagementModuleTest.cs",
+              "RelativeToolTip": "Test\\RManagementModuleTest.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:44:40.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MachingEngineProject",
+              "DocumentMoniker": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\MachingEngineProject.csproj",
+              "RelativeDocumentMoniker": "MachingEngineProject.csproj",
+              "ToolTip": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\MachingEngineProject.csproj",
+              "RelativeToolTip": "MachingEngineProject.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T16:38:02.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\Utils\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "Utils\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\admkumari\\source\\repos\\MachingEngineProject\\Utils\\ExtentReportManager.cs",
+              "RelativeToolTip": "Utils\\ExtentReportManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:52:08.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
