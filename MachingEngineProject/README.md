@@ -1,7 +1,7 @@
 
 # MachingEngineProject Automation
 
-This repository contains the automation project for testing the **Matching Engine** website using Selenium and NUnit.
+This repository contains an automation project for testing the Matching Engine website using Selenium and NUnit, with C# as the programming language.
 
 ## Project Structure
 
