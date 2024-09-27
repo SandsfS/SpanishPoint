@@ -62,3 +62,25 @@ The test results will be shown directly in the Test Explorer window.
 To view detailed logs, you can open the TestReport.html file generated in the Reports folder.
 
 ##########################################################################################################################################
+
+**Troubleshooting**
+Common Issues
+
+ChromeDriver version mismatch: Ensure that the ChromeDriver version matches the version of Chrome installed on your machine. You can update it via NuGet or download the correct version from ChromeDriver downloads.
+
+Failed to load NUnit Test Adapter: Ensure that you have the NUnit3TestAdapter and Microsoft.NET.Test.Sdk packages installed.
+
+Unable to generate test reports: Verify that the ExtentReports package is correctly installed and that the file path to the report is properly set.
+
+___________________________________________________________________________________________________________________________________________________________________
+**Author**
+This project was created by Sangeeta Kumari. Feel free to contribute or report issues!
+### Key Points:
+
+- The `README.md` provides clear instructions for setting up and running tests via both the command line and Visual Studio.
+- It outlines prerequisites, dependencies, and steps for restoring, building, and testing.
+- It covers both test execution and report generation and explains how to troubleshoot common issues.
+
+Let me know if you need more details or adjustments!
+
+
